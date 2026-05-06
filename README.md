@@ -154,6 +154,7 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 ## ✦ Privacy, Control & Customization 
 
+- Velin AI does not constantly read your screen. It is an action that triggers only when you do a command or gesture.
 - Velin AI only listens when you start a live session, and Live sessions stop as soon as you leave the live mode view.
 - Your conversation and responses are never saved or used outside of your invisible notes.
 - Everything from commands, apperance, ai setup/modes, mouse gestures, etc, is fully customizable by you.
@@ -204,6 +205,6 @@ See [Releases](../../releases) for the latest downloads.
 
 Built by [@takaraqode](https://x.com/takaraqode)
 
-<sub>© Velin AI · <a href="https://velinai.live/privacy">Privacy</a> · <a href="https://velinai.live/terms">Terms</a></sub>
+<sub>© Velin AI · <a href="https://www.velinai.live/policies/privacy">Privacy</a> · <a href="https://www.velinai.live/policies/terms">Terms</a></sub>
 
 </div>
