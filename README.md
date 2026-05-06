@@ -152,6 +152,14 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 ---
 
+## ✦ Privacy, Control & Customization 
+
+- Velin AI only listens when you start a live session, and Live sessions stop as soon as you leave the live mode view.
+- Your conversation and responses are never saved or used outside of your invisible notes.
+- Everything from commands, apperance, ai setup/modes, mouse gestures, etc, is fully customizable by you.
+
+---
+
 ## ✦ Platform Support
 
 | Platform | Minimum Version | Invisibility |
@@ -181,6 +189,15 @@ This repository hosts the public release binaries for Velin AI app. All releases
 
 See [Releases](../../releases) for the latest downloads.
 
+
+## Follow Journey & Connect with Creator
+
+[![X](https://img.shields.io/badge/-@takaraqode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/takaraqode)
+[![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@takaraqode)
+[![Peerlist](https://img.shields.io/badge/-Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/takaraqode)
+[![My Blog Posts](https://img.shields.io/badge/-My%20Blog%20Posts-FFFF00?style=flat-square&logoColor=white)](https://preciousnwaoha.github.io/blogs)
+[![Instagram](https://img.shields.io/badge/-@takaraqode-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/takaraqode)
+[![ProductHunt](https://img.shields.io/badge/-@takaraqode-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://producthunt.com/takaraqode)
 ---
 
 <div align="center">
