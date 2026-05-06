@@ -55,7 +55,7 @@ Zoom · Google Meet · Microsoft Teams · Honorlock · and every other sharing o
 <td width="50%">
 
 <!-- SCREENSHOT — gesture drawing an S-shape -->
-![Gesture Demo](assets/showcase/velin-gestures.png)
+![Gesture Demo](assets/showcase/gestures.png)
 
 </td>
 <td width="50%">
@@ -79,7 +79,7 @@ Perfect for live interviews, sales calls, client meetings, and online exams.
 <td width="50%">
 
 <!-- SCREENSHOT — live session panel with transcription -->
-![Live Session Demo](assets/showcase/velin-live.png)
+![Live Session Demo](assets/showcase/live.png)
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Captures your screen, analyzes it, and provides answers to whaterver problem is 
 <td width="50%">
 
 <!-- SCREENSHOT — notes panel shown over a document -->
-![Notes Demo](assets/showcase/velin-leetcode.png)
+![Notes Demo](assets/showcase/leetcode.png)
 
 </td>
 
@@ -104,7 +104,7 @@ Captures your screen, analyzes it, and provides answers to whaterver problem is 
 <td width="50%">
 
 <!-- SCREENSHOT — notes panel shown over a document -->
-![Notes Demo](assets/showcase/velin-note.png)
+![Notes Demo](assets/showcase/note.png)
 
 </td>
 <td width="50%">
