@@ -15,7 +15,7 @@
 <!-- DEMO GIF — replace with actual recording -->
 <!-- Suggested: screen capture of the app appearing/disappearing + solving a problem invisibly -->
 <!-- ![Velin Demo](assets/demo.gif) -->
-![Velin AI App Intro](assets/showcase/velin1.png)
+![Velin AI App Intro](assets/showcase/velin-intro.png)
 
 </div>
 
