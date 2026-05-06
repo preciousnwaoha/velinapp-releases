@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/velinlogo-cutout.png" alt="Velin" width="80" />
+<img src="assets/velinlogo-cutout.png" alt="Velin AI" width="80" />
 
 # Velin AI
 
@@ -14,16 +14,16 @@
 
 <!-- DEMO GIF — replace with actual recording -->
 <!-- Suggested: screen capture of the app appearing/disappearing + solving a problem invisibly -->
-<!-- ![Velin Demo](assets/demo.gif) -->
+<!-- ![Velin AI Demo](assets/demo.gif) -->
 ![Velin AI App Intro](assets/showcase/velin-intro.png)
 
 </div>
 
 ---
 
-## What is Velin?
+## What is Velin AI?
 
-Velin is an **undetectable AI assistant** that floats over your entire desktop — invisible to every screen recorder, meeting app, and proctoring platforms. It sees your screen, hears your calls, and gives you accurate AI answers in real time. Nobody else can see it.
+Velin AI is an **undetectable AI assistant** that floats over your entire desktop — invisible to every screen recorder, meeting app, and proctoring platforms. It sees your screen, hears your calls, and gives you accurate AI answers in real time. Nobody else can see it.
 
 > Invisible to Meet, Zoom, Teams, etc. Invisible to Leetcode, Codility, Hackerrank, etc. Invisible to Honorlock. Invisible to you — until you call it.
 
@@ -36,7 +36,7 @@ Velin is an **undetectable AI assistant** that floats over your entire desktop �
 <td width="50%">
 
 ### 👁️ OS-Level Invisibility
-Velin operates at the operating system level. It doesn't appear in screen recordings, screen shares, the dock, the menu bar, or the activity monitor. It simply doesn't exist to other apps.
+Velin AI operates at the operating system level. It doesn't appear in screen recordings, screen shares, the dock, the menu bar, or the activity monitor. It simply doesn't exist to other apps.
 
 **Verified undetectable on:**
 Zoom · Google Meet · Microsoft Teams · Honorlock · and every other sharing or proctoring tool.
@@ -71,7 +71,7 @@ Draw an **S** → Solve. Draw a **Circle** → Capture & Analyze. Draw an **infi
 <td width="50%">
 
 ### 🎙️ Live Interview Mode
-Velin listens to both sides of a call — your microphone and system audio — and provides real-time AI answers as the conversation happens. No typing. No searching. Just answers, floating invisibly on your screen.
+Velin AI listens to both sides of a call — your microphone and system audio — and provides real-time AI answers as the conversation happens. No typing. No searching. Just answers, floating invisibly on your screen.
 
 Perfect for live interviews, sales calls, client meetings, and online exams.
 
@@ -93,7 +93,7 @@ Captures your screen, analyzes it, and provides answers to whaterver problem is 
 <td width="50%">
 
 <!-- SCREENSHOT — notes panel shown over a document -->
-![Notes Demo](assets/showcase/leetcode.png)
+![Velin AI Leetcode Answering](assets/showcase/leetcode.png)
 
 </td>
 
@@ -139,7 +139,7 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 ---
 
-## ✦ Who Uses Velin?
+## ✦ Who Uses Velin AI?
 
 <div align="center">
 
@@ -163,13 +163,13 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 ## ✦ Get Started
 
-<div align="center">
+<div align="">
 
-**[→ Download Velin](https://velinai.live/download)**  
-**[→ View Pricing](https://velinai.live/pricing)**  
-**[→ Installation Guide](https://velinai.live/installation-guide)**  
-**[→ Videos & Demos](https://velinai.live/videos)**  
-**[→ Contact Support](https://velinai.live/contact)**
+**[→ Download Velin AI - Mac & Windows](https://velinai.live/download)**  
+**[→ View Velin AI Pricing (Most Affortable Undetectable Real-time AI + Lifetime Purchase)](https://velinai.live/pricing)**  
+**[→ Velin AI Installation Guide](https://velinai.live/installation-guide)**  
+**[→ Watch Videos & Demos](https://velinai.live/videos)**  
+**[→ Contact Creator - Takara](https://velinai.live/contact)**
 
 </div>
 
@@ -177,7 +177,7 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 ## ✦ Releases
 
-This repository hosts the public release binaries for Velin. All releases are signed and notarized.
+This repository hosts the public release binaries for Velin AI app. All releases are signed and notarized.
 
 See [Releases](../../releases) for the latest downloads.
 
