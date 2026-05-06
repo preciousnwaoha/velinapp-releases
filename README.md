@@ -122,14 +122,19 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 | Feature | Description |
 |---|---|
+| **Say Aloud & Follow-up Answers** | Velin AI answers as you. It includes what you should say aloud, comments, and possible follow-up (e.g time complexity) |
 | **AI Screenshot Analysis** | Capture any part of your screen and get instant AI analysis — code, diagrams, questions, anything |
-| **Parallel AI Jobs** | Run multiple capture-and-solve tasks simultaneously without waiting |
+| **Context Injection** | Provide your own background context to get more accurate, personalized answers |
+| **Invisible in Dock & Menubar** | You will not find Velin AI anywhere in your dock or menubar |
 | **Thinking Mode** | Toggle between speed-optimized and deep-reasoning AI modes |
 | **Full Coding Support** | Get code, explanations, and debugging in any programming language |
 | **57+ Languages** | Understands and responds in your language |
-| **Click-Through** | The app never steals focus, never becomes the active window — you interact with it transparently |
+| **Click-Through & Transparent** | Mouse passes trhough the app, it never steals focus, never becomes the active window — you interact with it transparently |
 | **Keyboard Shortcuts** | Every action has a shortcut. Nothing requires touching the app visually |
-| **Context Injection** | Provide your own background context to get more accurate, personalized answers |
+| **Never Active Window** | Clicking or typing in Velin AI does not make the app the active window |
+| **Undetectable in Activity Monitor** | No one will know you are using Velin AI even if you show them your activity monitor |
+| **False Focus & Typing** | When Clicking of Typing the Cursor still remains in the app underneat Velin AI |
+| **Parallel AI Jobs** | Run multiple capture-and-solve tasks simultaneously without waiting |
 | **Customizable Everything** | Gestures, AI mode, theme, shortcuts — all configurable from settings |
 
 ---
@@ -140,8 +145,8 @@ Save any AI response as a persistent note. Notes float over your screen just lik
 
 | 🎓 Students | 💼 Professionals | 💻 Developers | 📞 Sales |
 |---|---|---|---|
-| Ace proctored exams | Dominate live interviews | Debug on-screen in real-time | Convert leads faster with live coaching |
-| Use invisible cheatsheets | Get real-time meeting intel | Understand any codebase instantly | Know exactly what to say, when to say it |
+| Ace proctored exams | Dominate live interviews | On-screen Q&A (Leetcode-type) | Convert leads faster with live coaching |
+| Use invisible cheatsheets | Get real-time meeting intel | Answers with code + "say aloud" | Know exactly what to say, when to say it |
 
 </div>
 
